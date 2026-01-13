@@ -14,7 +14,7 @@ source ai-coach-env/bin/activate
 
 # --- 3. Set Environment Variables (API Key) ---
 # 🚨 IMPORTANT: REPLACE YOUR_API_KEY_HERE with your actual Gemini API Key
-export GOOGLE_API_KEY=AIzaSyBIoTh8Fjfki7ZFxY2lF1rzVjdUd7TVa40
+export GOOGLE_API_KEY=INSERT YOUR API KEY
 
 # --- 4. Launch the Application ---
 echo "Launching AI Interview Coach (app.py, file_chat.py, tts.py)..."
