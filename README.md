@@ -206,8 +206,8 @@ text
 ## 📧 Contact
 
 **VISHAL C TANTRI**  
-GitHub: [@vishaltantri](https://github.com/vishaltantri)  
-Project Link: [https://github.com/vishaltantri/AI-Interviewer/](https://github.com/vishaltantri/AI-Interviewer/)
+GitHub: [@Md Sadique Imam](https://github.com/FANGxPC)  
+Project Link: [https://github.com/FANGxPC/DEVJAMS-AI_Interveiwer](https://github.com/FANGxPC/DEVJAMS-AI_Interveiwer)
 
 ---
 
