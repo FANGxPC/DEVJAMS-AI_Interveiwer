@@ -205,7 +205,7 @@ text
 
 ## 📧 Contact
 
-**VISHAL C TANTRI**  
+**Md Sadique Imam**  
 GitHub: [@Md Sadique Imam](https://github.com/FANGxPC)  
 Project Link: [https://github.com/FANGxPC/DEVJAMS-AI_Interveiwer](https://github.com/FANGxPC/DEVJAMS-AI_Interveiwer)
 
